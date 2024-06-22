@@ -13,6 +13,10 @@
 
 ## 🏆 Notable Projects
 
+### Cashback App Whitelabel Solution (Lead iOS Developer)
+- Led the development of a customizable cashback app solution.
+- Ensured high-quality and scalable code for various client deployments.
+
 ### HiNBuy (Technical Lead)
 - Led the development of an Australian online marketplace using React Native.
 - Translated complex requirements into actionable tasks and ensured seamless execution.
@@ -24,10 +28,6 @@
 ### Fitvoo (Sole iOS Developer)
 - Built the entire app from the ground up using Firebase Realtime Database.
 - Managed both frontend and backend code for seamless data management.
-
-### Cashback App Whitelabel Solution (Lead iOS Developer)
-- Led the development of a customizable cashback app solution.
-- Ensured high-quality and scalable code for various client deployments.
 
 ## 🌍 Experience
 - **Accubits**: Lead iOS Developer
