@@ -39,6 +39,7 @@
 - Swift iOS technical advancements
 - Flutter cross-platform development
 - Golang backend development
+- LLMs, GenAI, and related technologies
 
 ## 🌟 About Me
 I'm dedicated to continuous improvement and staying updated with the latest industry trends. I thrive in collaborative environments and enjoy working on projects that challenge my skills and push the boundaries of technology.
